@@ -258,7 +258,7 @@ echo "  ~~~~~~~~~~~~~~~~~~~~~ BCHackTool ~~~~~~~~~~~~~~~~~~~~~~~~~"
 	echo " [13] ✔ RED_HAWK              [14] ✔ Ghost" 
         echo " [x] ✔ Exit" 
         echo ""
-        echo -ne "❨${red}BCHackTool@ByCh4n${tp}❩:(${blue}./hacktool${tp})\n↳[${blink}${lightcyan}*${tp}]➢ " ; read option
+        echo -ne "❨${red}BCHackTool@ByCh4n${tp}❩:(${blue}./bchacktool${tp})\n↳[${blink}${lightcyan}*${tp}]➢ " ; read option
         
         case "$option" in 
             1)
