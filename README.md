@@ -1,36 +1,12 @@
-![baycan (1)](https://user-images.githubusercontent.com/67187998/96374988-df9b9900-117e-11eb-9ade-9436c2859707.png)
+![baycan (1)](https://avatars.githubusercontent.com/u/130356338?v=4)
 
 TR
 --
-Bu Program ByChan Tarafından Hazırlanmıştır.
+Script By Anonymous | Mojo
 
-Instagram 📸 : huseyinaltns
+Instagram 📸 : anonymous.for.freedom | https://instagram.com/anonymous.for.freedom
 
-Kullanımı Çok Basit Shell Üzerine Yazılmış Bir Programdır Ve Siz İşlem Yapmadan Otomatik Olarak Kurulumları Yaparak Bütün Programlara Giriş Yapıcaktır. 💯
 
-Hatalar Giderildi. ✔
-
-Programı İlk Çalıştırdığınız Zaman Öncelikli Olarak [19] Otomatik Güncelleştiriciyi Çalıştırınız. ✔
-
-Root Olarak Giriş Yapmadıysanız Root Olarak Giriş Yapınız Yada Komutların Başlarına "sudo" Komutunu Eklemeyi Unutmayınız ❕
-
-- Programın Geliştirilmesine Yardımcı Olan lastpingu Arkadaşımıza Teşekkür Ederiz. :) <3
-
-EN
---
-This Program Was Prepared By ByChan.
-
-Instagram 📸 : huseyinaltns
-
-It Is Very Simple To Use, It Is Written On Shell, And You Can Log In To All The Programs By Making The Setups Automatically Without Any Action. 💯
-
-The Errors Have Been Fixed. ✔
-
-When You First Run The Program, First Run The [19] Automatic Updater. ✔
-
-If you have not logged in as Root, Please log in as Root or do not forget to add the command "sudo" to the beginning of the commands ❕
-
-- Thank You To Our Friend lastpingu Who Helped Develop The Program. :) <3
 
 --------------------------------------------------------------------------
 
